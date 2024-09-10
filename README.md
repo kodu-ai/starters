@@ -10,3 +10,4 @@ All of these directories contain a ".kodu" file containing additional instructio
 - `version`: The version of the starter
 - `run`: The command to run the starter
 - `install`: The command to install dependencies
+In vscode, that is done automatically with the `.vscode/settings.json` file, it makes it so that the `schema.json` is used to validate the `.kodu` files.

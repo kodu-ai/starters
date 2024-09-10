@@ -2,7 +2,7 @@
 	"json.schemas": [
 		{
 			"fileMatch": [
-				"**/*.json"
+				"**/*.kodu"
 			],
 			"url": "./schema.json"
 		}

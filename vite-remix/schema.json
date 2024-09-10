@@ -1,0 +1,9 @@
+{
+  "name": "Remix TypeScript project",
+  "description": "Starter to build a project with Remix",
+  "preflight": "npm --version",
+  "author": "ajnart",
+  "version": "1.0.0",
+  "run": "npm run dev",
+  "install": "npm install"
+}

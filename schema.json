@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Starter",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The name of the starter"
+    },
+    "description": {
+      "type": "string",
+      "description": "A brief description of the starter"
+    },
+    "preflight": {
+      "type": "string",
+      "description": "The command to check if the starter can be run"
+    },
+    "author": {
+      "type": "string",
+      "description": "The author of the starter"
+    },
+    "version": {
+      "type": "string",
+      "description": "The version of the starter"
+    },
+    "run": {
+      "type": "string",
+      "description": "The command to run the starter"
+    },
+    "install": {
+      "type": "string",
+      "description": "The command to install dependencies"
+    }
+  },
+  "required": ["name", "description", "preflight", "author", "version", "run", "install"]
+}

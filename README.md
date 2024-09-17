@@ -13,7 +13,7 @@ Our starters are designed to help you begin your projects quickly and efficientl
 - Vite React Project
 - Remix TypeScript Project
 
-For a complete list and details of available starters, check out our [starter catalog](link-to-catalog).
+For a complete list and details of available starters, check out our [starter catalog](starters.json).
 
 ## 🛠 How to Use a Starter
 
@@ -39,8 +39,8 @@ When submitting a new starter, please ensure your pull request adheres to the fo
   "title": "Your Starter Name",
   "description": "A brief description of your starter",
   "repo": "https://github.com/kodu-ai/starters/tree/main/your-starter-name",
-  "creator": "Kodu AI",
-  "isOfficial": true
+  "creator": "your name",
+  "isOfficial": false
 }
 ```
 
@@ -68,8 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need assistance, please open an issue or contact our support team.
 
 Happy coding with Kodu AI Starters! 🎉
-7. Support contact information
-
-The README is now more visually appealing with emoji use and clear section headers. It's designed to be easy to read and understand on a GitHub page. 
-
-Would you like me to make any further adjustments to this README?

@@ -1,9 +1,3 @@
-Certainly! I'll update the README file to include the information you've requested, and I'll format it to be more attractive and easier to understand for a GitHub page. Here's the updated README:
-
-
-
-
-
 # Kodu AI Starters
 
 Welcome to the Kodu AI Starters repository! This collection contains starter templates designed to kickstart your projects within the Kodu ecosystem.
@@ -74,19 +68,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need assistance, please open an issue or contact our support team.
 
 Happy coding with Kodu AI Starters! 🎉
-
-
-I've created an updated README file as an artifact. This new README includes:
-
-1. An introduction to the Kodu AI Starters repository
-2. A "Getting Started" section
-3. A brief list of available starters
-4. Instructions on how to use a starter
-5. Contribution guidelines, including:
-   - How to make a new entry (create a pull request)
-   - The schema to follow for new entries
-   - Instructions for adding a `.kodu` file
-6. License information
 7. Support contact information
 
 The README is now more visually appealing with emoji use and clear section headers. It's designed to be easy to read and understand on a GitHub page. 

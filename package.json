@@ -1,0 +1,8 @@
+{
+  "name": "kodu-starters",
+  "description": "A collection of starter templates for Kodu AI",
+  "authors": "kodu-ai",
+  "homepage": "https://github.com/kodu-ai/starters",
+  "version": "1.0.0",
+  "license": "MIT"
+}

@@ -9,7 +9,7 @@
     },
     "description": {
       "type": "string",
-      "description": "A brief description of the starter"
+      "description": "A detailed description of the starter, including the features it provides, the technologies it uses and who it is for"
     },
     "preflight": {
       "type": "string",

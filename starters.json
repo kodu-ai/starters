@@ -7,6 +7,13 @@
     "isOfficial": true
   },
   {
+    "title": "Astro Todo starter",
+    "description": "For learning React and Astro, this starter is a very simple todo list app that includes the famous Shadcn UI and TailwindCSS styling libraries. Modify the code alongside Kodu to learn how to build a modern web app.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/astro-todo",
+    "creator": "Kodu AI",
+    "isOfficial": true
+  },
+  {
     "title": "NextJS admin pannel",
     "description": "For building a modern, responsive admin panel where you can manage your application's data and settings.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/nextjs-admin",

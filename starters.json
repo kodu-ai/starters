@@ -7,6 +7,13 @@
     "isOfficial": true
   },
   {
+    "title": "Company landing page",
+    "description": "Show off your business and the value you provide with a beautiful, responsive landing page.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/landing-page",
+    "creator": "Kodu AI",
+    "isOfficial": true
+  },
+  {
     "title": "Admin Panel",
     "description": "For building a modern, responsive admin panel where you can manage your application's data and settings.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/nextjs-admin",

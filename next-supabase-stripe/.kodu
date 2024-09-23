@@ -1,0 +1,9 @@
+{
+  "name": "SaaS Starter Template",
+  "description": "The SaaS Starter Template is a comprehensive solution for quickly building software-as-a-service applications using Supabase for database management, Stripe for payment processing, React for dynamic interfaces, and Tailwind CSS for responsive styling, featuring essential sections, user-friendly navigation, and seamless webhook integration, all with a streamlined setup process and clear documentation for efficient development.",
+  "preflight": "npm --version",
+  "author": "Kodu",
+  "version": "1.0.0",
+  "run": "npm run dev",
+  "install": "npm install"
+}

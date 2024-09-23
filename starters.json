@@ -14,16 +14,22 @@
     "isOfficial": true
   },
   {
+    "title": "Beautiful landing page",
+    "description": "Show off your business and the value you provide with a beautiful, responsive landing page.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/landing-page",
+    "creator": "Kodu AI",
+    "isOfficial": true
+  },
+  {
     "title": "Webapp starter",
-    "description": "For creating modern, server-side rendered React applications with built-in optimizations and a great developer experience.",
+    "description": "For creating modern websites that require a lot of moving parts, with the help of the latest tools and technologies, as well as a great developer experience.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/nextjs",
     "creator": "Kodu AI",
     "isOfficial": true
   },
-
   {
     "title": "Todo list maker",
-    "description": "For learning React and Astro, this starter is a very simple todo list app that includes the famous Shadcn UI and TailwindCSS styling libraries. Modify the code alongside Kodu to learn how to build a modern web app.",
+    "description": "To learn React and Astro, this starter is a very simple todo list app that includes the famous Shadcn UI and TailwindCSS styling libraries. Modify the code alongside Kodu to learn how to build a modern web app.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/astro-todo",
     "creator": "Kodu AI",
     "isOfficial": true

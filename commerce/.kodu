@@ -1,0 +1,9 @@
+{
+  "name": "NextJS Admin Dashboard",
+  "description": "This project is a Next.js (App Router) starter template built with TypeScript, designed to offer a modern web development experience with enhanced layouts, colocated components, and component-level data fetching. Next.js Commerce is a high-performance, server-rendered e-commerce application using React Server Components, Server Actions, and Suspense, built for seamless Shopify integration with support for multiple providers like BigCommerce and Medusa, offering advanced features like Orama-powered search and React Bricks for visual CMS, optimized for Vercel deployment with easy environment management; follow the tutorial at vercel.com/templates/next.js/nextjs-commerce and use Kodu AI in order to make changes to the project.",
+  "preflight": "npm --version",
+  "author": "vercel",
+  "version": "1.0.0",
+  "run": "npm run dev",
+  "install": "npm install"
+}

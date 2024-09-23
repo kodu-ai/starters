@@ -1,29 +1,30 @@
 [
   {
-    "title": "NextJS project",
+    "title": "SaaS starter kit",
+    "description": "Start building your SaaS application with this starter kit that includes awesome ui, stripe for payment and supabase for authentication and database.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/next-supabase-stripe-starter",
+    "creator": "Kodu AI",
+    "isOfficial": true
+  },
+  {
+    "title": "Admin Panel",
+    "description": "For building a modern, responsive admin panel where you can manage your application's data and settings.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/nextjs-admin",
+    "creator": "Kodu AI",
+    "isOfficial": true
+  },
+  {
+    "title": "Webapp starter",
     "description": "For creating modern, server-side rendered React applications with built-in optimizations and a great developer experience.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/nextjs",
     "creator": "Kodu AI",
     "isOfficial": true
   },
+
   {
-    "title": "Python script",
-    "description": "For writing simple Python scripts or small command-line tools quickly and easily.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/python-script",
-    "creator": "Kodu AI",
-    "isOfficial": true
-  },
-  {
-    "title": "Vite React project",
-    "description": "For building fast, modern single-page applications with React and Vite's lightning-fast build tool.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/vite-react",
-    "creator": "Kodu AI",
-    "isOfficial": true
-  },
-  {
-    "title": "Remix TypeScript project",
-    "description": "For developing full-stack web applications with a focus on web standards and modern UX.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/vite-remix",
+    "title": "Todo list maker",
+    "description": "For learning React and Astro, this starter is a very simple todo list app that includes the famous Shadcn UI and TailwindCSS styling libraries. Modify the code alongside Kodu to learn how to build a modern web app.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/astro-todo",
     "creator": "Kodu AI",
     "isOfficial": true
   }

@@ -1,0 +1,9 @@
+[submodule "nextjs-postgres-nextauth-tailwindcss-template"]
+	path = nextjs-postgres-nextauth-tailwindcss-template
+	url = https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template
+[submodule "admin-dashboard"]
+	path = admin-dashboard
+	url = https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template
+[submodule "react-with-auth"]
+	path = react-with-auth
+	url = git@github.com:vercel/nextjs-postgres-auth-starter.git

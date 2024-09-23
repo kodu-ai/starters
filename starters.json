@@ -2,7 +2,7 @@
   {
     "title": "SaaS starter kit",
     "description": "Start building your SaaS application with this starter kit that includes awesome ui, stripe for payment and supabase for authentication and database.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/next-supabase-stripe-starter",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/sass-starter",
     "creator": "Kodu AI",
     "isOfficial": true
   },

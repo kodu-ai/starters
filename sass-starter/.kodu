@@ -1,0 +1,13 @@
+This Project is bootstraped SaaS with a modern tech stack built to move quick. Follow the guide to get started.
+
+What's included
+Supabase - Postgres database & user authentication
+Stripe - Checkout, subscriptions, and customer portal
+React Email - Easily build emails and send them with Resend
+Tailwindcss - CSS framework
+shadcn/ui - Prebuilt accessible components
+Webhooks to automatically synchronize Stripe with Supabase
+Stripe fixture to bootstrap product data
+Supabase migrations to bootstrap and manage your db schema
+Responsive, performant, and accessible prebuilt pages
+Animated button borders! Now you can look cool without nerds saying you shipped too late

@@ -7,6 +7,13 @@
     "isOfficial": true
   },
   {
+    "title": "NextJS admin pannel",
+    "description": "For building a modern, responsive admin panel where you can manage your application's data and settings.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/nextjs-admin",
+    "creator": "Vercel",
+    "isOfficial": true
+  },
+  {
     "title": "Python script",
     "description": "For writing simple Python scripts or small command-line tools quickly and easily.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/python-script",

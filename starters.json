@@ -14,6 +14,12 @@
     "isOfficial": true
   },
   {
+    "title": "NextJS Commerce website",
+    "description": "Based on the well-known Commerce template from Vercel, this starter specializes in building e-commerce websites with NextJS that uses Shopify",
+    "creator": "Vercel",
+    "isOfficial": true
+  },
+  {
     "title": "Python script",
     "description": "For writing simple Python scripts or small command-line tools quickly and easily.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/python-script",

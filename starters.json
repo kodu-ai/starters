@@ -2,21 +2,21 @@
   {
     "title": "NextJS project",
     "description": "For creating modern, server-side rendered React applications with built-in optimizations and a great developer experience.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/nextjs",
+    "repo": "https://github.com/kodu-ai/starters/tree/add-starters/nextjs",
     "creator": "Kodu AI",
     "isOfficial": true
   },
   {
     "title": "Astro Todo starter",
     "description": "For learning React and Astro, this starter is a very simple todo list app that includes the famous Shadcn UI and TailwindCSS styling libraries. Modify the code alongside Kodu to learn how to build a modern web app.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/astro-todo",
+    "repo": "https://github.com/kodu-ai/starters/tree/add-starters/astro-todo",
     "creator": "Kodu AI",
     "isOfficial": true
   },
   {
     "title": "NextJS admin pannel",
     "description": "For building a modern, responsive admin panel where you can manage your application's data and settings.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/nextjs-admin",
+    "repo": "https://github.com/kodu-ai/starters/tree/add-starters/nextjs-admin",
     "creator": "Vercel",
     "isOfficial": true
   },
@@ -29,21 +29,21 @@
   {
     "title": "Python script",
     "description": "For writing simple Python scripts or small command-line tools quickly and easily.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/python-script",
+    "repo": "https://github.com/kodu-ai/starters/tree/add-starters/python-script",
     "creator": "Kodu AI",
     "isOfficial": true
   },
   {
     "title": "Vite React project",
     "description": "For building fast, modern single-page applications with React and Vite's lightning-fast build tool.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/vite-react",
+    "repo": "https://github.com/kodu-ai/starters/tree/add-starters/vite-react",
     "creator": "Kodu AI",
     "isOfficial": true
   },
   {
     "title": "Remix TypeScript project",
     "description": "For developing full-stack web applications with a focus on web standards and modern UX.",
-    "repo": "https://github.com/kodu-ai/starters/tree/main/vite-remix",
+    "repo": "https://github.com/kodu-ai/starters/tree/add-starters/vite-remix",
     "creator": "Kodu AI",
     "isOfficial": true
   }

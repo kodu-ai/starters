@@ -1,9 +1,1 @@
-{
-  "name": "NextJS Admin Dashboard",
-  "description": "This project is a Next.js (App Router) starter template built with TypeScript, designed to offer a modern web development experience with enhanced layouts, colocated components, and component-level data fetching. It integrates Auth.js for user authentication, uses SQLite as the database, and is optimized for deployment on Vercel, making it ideal for scalable, serverless applications. The project uses Tailwind CSS for responsive styling, along with Shadcn UI components to provide a customizable and accessible design system. For analytics, it leverages Vercel Analytics to monitor performance and user interaction, and Prettier is employed for consistent code formatting across the project. This stack ensures a fast, maintainable, and efficient development process with a focus on clean code and best practices for deployment in modern web environments.",
-  "preflight": "npm --version",
-  "author": "vercel",
-  "version": "1.0.0",
-  "run": "npm run dev",
-  "install": "npm install"
-}
+This project is a Next.js (App Router) starter template built with TypeScript, designed to offer a modern web development experience with enhanced layouts, colocated components, and component-level data fetching. It integrates Auth.js for user authentication, uses SQLite as the database, and is optimized for deployment on Vercel, making it ideal for scalable, serverless applications. The project uses Tailwind CSS for responsive styling, along with Shadcn UI components to provide a customizable and accessible design system. For analytics, it leverages Vercel Analytics to monitor performance and user interaction, and Prettier is employed for consistent code formatting across the project. This stack ensures a fast, maintainable, and efficient development process with a focus on clean code and best practices for deployment in modern web environments.

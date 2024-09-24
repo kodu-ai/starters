@@ -1,9 +1,1 @@
-{
-  "name": "NextJS project",
-  "description": "Starter to build a NextJS project with TypeScript and Tailwindcss",
-  "preflight": "npm --version",
-  "author": "ajnart",
-  "version": "1.0.0",
-  "run": "npm run dev",
-  "install": "npm install"
-}
+Starter to build a NextJS project with TypeScript and Tailwindcss 

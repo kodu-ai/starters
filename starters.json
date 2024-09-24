@@ -14,6 +14,13 @@
     "isOfficial": true
   },
   {
+    "title": "Portfolio",
+    "description": "For creating a beautiful portfolio to showcase your work and skills.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/portfolio",
+    "creator": "Kodu AI",
+    "isOfficial": true
+  },
+  {
     "title": "Company landing page",
     "description": "Show off your business and the value you provide with a beautiful, responsive landing page.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/landing-page",

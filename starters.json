@@ -7,6 +7,11 @@
     "isOfficial": true
   },
   {
+    "title": "Blog starter",
+    "description": "For creating a simple and fast blog with markdown support and a beautiful design.",
+    "repo": "https://github.com/kodu-ai/starters/tree/main/astro-blog"
+  },
+  {
     "title": "Company landing page",
     "description": "Show off your business and the value you provide with a beautiful, responsive landing page.",
     "repo": "https://github.com/kodu-ai/starters/tree/main/landing-page",
